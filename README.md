@@ -28,7 +28,7 @@ Steps :
 
 4)  Find Your Device IP And Use Your PC Or Mac To Connect SSH Over IP
 
-5) Put The Command In Your SSH Over IP Session : /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/iOSNJBrepo/Uncurus/new/installall.sh)"
+5) Put The Command In Your SSH Over IP Session : /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/iOSNJBrepo/Uncursus/new/installall.sh)"
 
 6) Wait. Your Device Should Respring, Launch Sileo And Profit
 
